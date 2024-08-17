@@ -21,8 +21,18 @@
 
 </br>
 
+<<<<<<< HEAD
+## 🤓 Trabalho Final 
+
+ 1. [Validação de Vetores para Armazenamento de Nomes e Alturas](https://github.com/thaiscardosodemello/serratec.residenciatic/blob/main/LogicaDeProgramacao/Avaliacao/avaliacao_01_nome_altura.por/)
+ 2. [Gerenciamento de Convidados](https://github.com/thaiscardosodemello/serratec.residenciatic/blob/main/LogicaDeProgramacao/Avaliacao/avaliacao_02_lista_de_convidados.por/)
+ 3. [Gerenciamento de Estacionamento](https://github.com/thaiscardosodemello/serratec.residenciatic/blob/main/LogicaDeProgramacao/Avaliacao/avaliacao_03_gerenciamento_de_estacionamento.por/)
+ 4. [Faturamento Hospitalar](https://github.com/thaiscardosodemello/serratec.residenciatic/blob/main/LogicaDeProgramacao/Avaliacao/avaliacao_04_faturamento_hospitalar.por/) 
+ 5. [Sistema de Reserva de Assentos em Cinema](https://github.com/thaiscardosodemello/serratec.residenciatic/blob/main/LogicaDeProgramacao/Avaliacao/avaliacao_05_cinema.por/)
+=======
 ### 🤓 Trabalho Final 
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**Lista de Atividades**]
+>>>>>>> da982b40ae5bd3a88ff791c5cafdbd608dd54536
 
  <table>
   <tr>Grupo</tr>
