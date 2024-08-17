@@ -1,8 +1,7 @@
-<p align="center">
-   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img height="80px" src="assets/logoSerratec.png" alt="logo serratec"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img height="100px" src="assets/logoSerratec.png" alt="logo serratec"/>
+<p align="center" style="bottom:10px;">
+   <img height="80px" src="assets/logoSerratec.png" alt="logo serratec"/>
 </p>
-
-<h1 align="center">Lógica de Programação</h1>
+<h1 align="center" style="border-bottom: none!important;padding-bottom:0px!important;">Lógica de Programação</h1>
 <h3 align="center">Professor Roni Schanuel</h3>
 
 </br>
@@ -21,7 +20,6 @@
 
 </br>
 
-<<<<<<< HEAD
 ## 🤓 Trabalho Final 
 
  1. [Validação de Vetores para Armazenamento de Nomes e Alturas](https://github.com/thaiscardosodemello/serratec.residenciatic/blob/main/LogicaDeProgramacao/Avaliacao/avaliacao_01_nome_altura.por/)
@@ -29,14 +27,9 @@
  3. [Gerenciamento de Estacionamento](https://github.com/thaiscardosodemello/serratec.residenciatic/blob/main/LogicaDeProgramacao/Avaliacao/avaliacao_03_gerenciamento_de_estacionamento.por/)
  4. [Faturamento Hospitalar](https://github.com/thaiscardosodemello/serratec.residenciatic/blob/main/LogicaDeProgramacao/Avaliacao/avaliacao_04_faturamento_hospitalar.por/) 
  5. [Sistema de Reserva de Assentos em Cinema](https://github.com/thaiscardosodemello/serratec.residenciatic/blob/main/LogicaDeProgramacao/Avaliacao/avaliacao_05_cinema.por/)
-=======
-### 🤓 Trabalho Final 
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**Lista de Atividades**]
->>>>>>> da982b40ae5bd3a88ff791c5cafdbd608dd54536
-
- <table>
-  <tr>Grupo</tr>
-  <tr>
+<br/>
+ <table align="center">
+    <tr>
     <td align="center">
       <a href="https://github.com/eduardofmonteiro">
         <img src="https://avatars.githubusercontent.com/u/44728582?v=4" width="100px;" alt="Avatar Eduardo Felipe"/><br>
