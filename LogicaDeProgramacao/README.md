@@ -1,5 +1,5 @@
 <p align="center" style="bottom:10px;">
-   <img height="80px" src="assets/logoSerratec.png" alt="logo serratec"/>
+   <img height="80px" src="assets/LogicaDeProgramacao/logoSerratec.jpg" alt="logo serratec"/>
 </p>
 <h1 align="center" style="border-bottom: none!important;padding-bottom:0px!important;">Lógica de Programação</h1>
 <h3 align="center">Professor Roni Schanuel</h3>
