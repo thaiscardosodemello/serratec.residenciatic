@@ -31,19 +31,27 @@
 <br/>
  <table align="center">
     <tr>
-    <!--<td align="center">
-      <a href="https://github.com/eduardofmonteiro">
-        <img src="https://avatars.githubusercontent.com/u/44728582?v=4" width="100px;" alt="Avatar Eduardo Felipe"/><br>
+    <td align="center">
+      <a href="https://github.com/isabe1l4">
+        <img src="https://avatars.githubusercontent.com/u/166730062?v=4" width="100px;" alt="Avatar Isabela Assumpção"/><br>
         <sub>
-          <b>Eduardo Felipe</b>
+          <b>Isabela Assumpção</b>
         </sub>
       </a>
-    </td>-->
+    </td>
     <td align="center">
       <a href="https://github.com/JoaoGLinhares">
         <img src="https://avatars.githubusercontent.com/u/177574425?v=4" width="100px;" alt="Avatar João Linhares"/><br>
         <sub>
           <b>João Linhares</b>
+        </sub>
+      </a><br>
+    </td>
+   <td align="center">
+      <a href="https://github.com/rafaelfreire3107">
+        <img src="https://avatars.githubusercontent.com/u/177573677?v=4" width="100px;" alt="Avatar Rafael Freire"/><br>
+        <sub>
+          <b>Rafael Freire</b>
         </sub>
       </a><br>
     </td>
@@ -63,14 +71,6 @@
         </sub>
       </a><br>
     </td>
-    <!--<td align="center">
-      <a href="https://github.com/thaissan">
-        <img src="https://avatars.githubusercontent.com/u/86802712?v=4" width="100px;" alt="Avatar Thais Santos"/><br>
-        <sub>
-          <b>Thais Santos</b>
-        </sub>
-      </a><br>
-    </td>-->
 </table>
 
 </br>
