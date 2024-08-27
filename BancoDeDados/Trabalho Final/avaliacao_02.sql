@@ -142,3 +142,42 @@ join
 	carrinho carrinho on p.cod_pedido = carrinho.cod_pedido 
 group by
 	p.cod_pedido, c.nome_completo, f.nome;
+
+drop table carrinho cascade;
+
+CREATE TABLE carrinho (
+    cod_produto INT,
+    cod_pedido INT,
+    quantidade INT,
+    PRIMARY KEY (cod_produto, cod_pedido),
+    FOREIGN KEY (cod_produto) REFERENCES produto(cod_produto),
+    FOREIGN KEY (cod_pedido) REFERENCES pedido(cod_pedido)
+);
+
+INSERT INTO carrinho (quantidade, cod_produto, cod_pedido) VALUES 
+(2, 1, 1),
+(1, 2, 1),
+(3, 3, 2),
+(1, 4, 3),
+(4, 5, 4);
+
+CREATE OR REPLACE VIEW Nota_Fiscal AS
+SELECT 
+    p.cod_pedido, 
+    c.nome_completo AS nome_cliente,
+    f.nome AS nome_funcionario,
+    SUM(carrinho.quantidade) AS qtd_produtos,
+    pr.valor_un as valor_un,
+    SUM(carrinho.quantidade * pr.valor_un) AS valor_total
+FROM
+    pedido p
+JOIN
+    cliente c ON p.cod_cliente = c.cod_cliente
+JOIN
+    funcionario f ON p.cod_funcionario = f.cod_funcionario
+JOIN
+    carrinho carrinho ON p.cod_pedido = carrinho.cod_pedido
+JOIN
+    produto pr ON carrinho.cod_produto = pr.cod_produto
+GROUP BY
+    p.cod_pedido, c.nome_completo, f.nome, pr.valor_un;
