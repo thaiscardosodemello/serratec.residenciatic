@@ -1,34 +1,38 @@
-<p align="center" style="bottom:10px;">
+<p align="center">
    <img height="200px" src="../assets/logoSerratec.jpg" alt="logo serratec"/>
 </p>
-<h1 align="center" style="border-bottom: none!important;padding-bottom:0px!important;">Lógica de Programação</h1>
-<h3 align="center">Professor Roni Schanuel</h3>
+
+<div align="center">
+  <h1 style="font-family: 'Nunito', sans-serif; margin-bottom: 0; border-bottom: none; padding-bottom: 0;">Lógica de Programação</h1>
+  <h3 style="font-family: 'Nunito', sans-serif; margin-top: 0;">Professor Roni Schanuel</h3>
+</div>
 
 </br>
 
 ## 🖥️ Conteúdo Programático
 
-✔️ Compreender a lógica booleana (E, OU, NOT)</br>
-✔️ Entender a árvore de decisão</br>
-✔️ Saber utilizar as estruturas de laço</br>
-✔️ Conhecer o conceito de recursividade</br>
-✔️ Entender a estrutura de dados (vetor, matriz, fila, pilha...)</br>
-✔️ Compreender o conceito de variável e constante</br>
-✔️ Interface de linha de comando (GIT)
+O módulo abrange os seguintes tópicos:
 
-*Totalizando 60h*
+✔️ **Compreender a lógica booleana** (E, OU, NOT)</br>
+✔️ **Entender a árvore de decisão**</br>
+✔️ **Saber utilizar as estruturas de laço**</br>
+✔️ **Conhecer o conceito de recursividade**</br>
+✔️ **Entender a estrutura de dados** (vetor, matriz, fila, pilha...)</br>
+✔️ **Compreender o conceito de variável e constante**</br>
+✔️ **Interface de linha de comando** (GIT)</br>
 
 </br>
 
 ## 🤓 Trabalho Final 
 
- 1. [Validação de Vetores para Armazenamento de Nomes e Alturas](https://github.com/thaiscardosodemello/serratec.residenciatic/blob/main/LogicaDeProgramacao/Avaliacao/avaliacao_01_nome_altura.por/)
- 2. [Gerenciamento de Convidados](https://github.com/thaiscardosodemello/serratec.residenciatic/blob/main/LogicaDeProgramacao/Avaliacao/avaliacao_02_lista_de_convidados.por/)
- 3. [Gerenciamento de Estacionamento](https://github.com/thaiscardosodemello/serratec.residenciatic/blob/main/LogicaDeProgramacao/Avaliacao/avaliacao_03_gerenciamento_de_estacionamento.por/)
- 4. [Faturamento Hospitalar](https://github.com/thaiscardosodemello/serratec.residenciatic/blob/main/LogicaDeProgramacao/Avaliacao/avaliacao_04_faturamento_hospitalar.por/) 
- 5. [Sistema de Reserva de Assentos em Cinema](https://github.com/thaiscardosodemello/serratec.residenciatic/blob/main/LogicaDeProgramacao/Avaliacao/avaliacao_05_cinema.por/)
+1. [Validação de Vetores para Armazenamento de Nomes e Alturas](https://github.com/thaiscardosodemello/serratec.residenciatic/blob/main/LogicaDeProgramacao/Avaliacao/avaliacao_01_nome_altura.por/)
+2. [Gerenciamento de Convidados](https://github.com/thaiscardosodemello/serratec.residenciatic/blob/main/LogicaDeProgramacao/Avaliacao/avaliacao_02_lista_de_convidados.por/)
+3. [Gerenciamento de Estacionamento](https://github.com/thaiscardosodemello/serratec.residenciatic/blob/main/LogicaDeProgramacao/Avaliacao/avaliacao_03_gerenciamento_de_estacionamento.por/)
+4. [Faturamento Hospitalar](https://github.com/thaiscardosodemello/serratec.residenciatic/blob/main/LogicaDeProgramacao/Avaliacao/avaliacao_04_faturamento_hospitalar.por/)
+5. [Sistema de Reserva de Assentos em Cinema](https://github.com/thaiscardosodemello/serratec.residenciatic/blob/main/LogicaDeProgramacao/Avaliacao/avaliacao_05_cinema.por/)
+
 <br/>
- <table align="center">
+<table align="center">
     <tr>
     <td align="center">
       <a href="https://github.com/eduardofmonteiro">
@@ -44,7 +48,7 @@
         <sub>
           <b>João Linhares</b>
         </sub>
-      </a><br>
+      </a>
     </td>
     <td align="center">
       <a href="https://github.com/ryansouza9">
@@ -52,7 +56,7 @@
         <sub>
           <b>Ryan Souza</b>
         </sub>
-      </a><br>
+      </a>
     </td>
     <td align="center">
       <a href="https://github.com/thaiscardosodemello">
@@ -60,7 +64,7 @@
         <sub>
           <b>Thais Cardoso</b>
         </sub>
-      </a><br>
+      </a>
     </td>
     <td align="center">
       <a href="https://github.com/thaissan">
@@ -68,7 +72,7 @@
         <sub>
           <b>Thais Santos</b>
         </sub>
-      </a><br>
+      </a>
     </td>
 </table>
 
@@ -76,6 +80,6 @@
 
 ## ✨ Tecnologia Utilizada
 
-- [**Portugol Studio**](https://portugol-webstudio.cubos.io/)    [*(Documentação)*](https://github.com/UNIVALI-LITE/Portugol-Studio/wiki/Como-funciona-o-Portugol-Studio)
+Para o desenvolvimento dos projetos, foi utilizada a seguinte ferramenta:
 
-
+- **[Portugol Studio](https://portugol-webstudio.cubos.io/)** [*(Documentação)*](https://github.com/UNIVALI-LITE/Portugol-Studio/wiki/Como-funciona-o-Portugol-Studio)
