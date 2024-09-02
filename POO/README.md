@@ -3,60 +3,40 @@
 </p>
 
 <div align="center">
-  <h1 style="font-family: 'Nunito', sans-serif; margin-bottom: 0;">Programação Orientada a Objetos (JAVA)</h1>
+  <h1 style="font-family: 'Nunito', sans-serif; margin-bottom: 0;border-bottom: 0; padding-bottom: 0;">Programação Orientada a Objetos (JAVA)</h1>
   <h3 style="font-family: 'Nunito', sans-serif; margin-top: 0;">Professor Arthur Carvalho</h3>
 </div>
 
+</br>
+
 ---
+
+</br>
 
 ## 🖥️ Conteúdo Programático
 
-O curso abrange os seguintes tópicos:
+O módulo abrange os seguintes tópicos:
 
-- **Modelagem de Sistemas (UML)**
-  - Diagramas: Classe, Sequência, Atividades, Estados, etc.
+✔️ **Modelagem de Sistemas (UML)** Diagramas: Classe, Sequência, Atividades, Estados, etc.</br>
+✔️ **Compilação e Execução** Entrada de dados: i/o, teclado, console.</br>
+✔️ **Identificadores e Tipos de Dados** Palavras-chave, tipos primitivos, conversão, variáveis, hierarquia de operadores e parênteses.</br>
+✔️ **Estruturas de Programação** Condicionais (if), loops, switch, break, Enum, métodos de classe, recursividade e escopo de variáveis.</br>
+✔️ **Gestão de Objetos e Classes** Acesso, getters, setters, construtores, static. Herança, reescrita, polimorfismo, classes abstratas e interfaces.</br>
+✔️ **Manipulação de Data e Hora**</br>
+✔️ **Estruturas de Dados** Arrays, coleções.</br>
+✔️ **Tratamento de Erros**</br>
+✔️ **Acesso a Banco de Dados**</br>
+✔️ **Empacotamento de Aplicações** Criação e utilização de bibliotecas.</br>
 
-- **Compilação e Execução**
-  - Entrada de dados: i/o, teclado, console.
-
-- **Identificadores e Tipos de Dados**
-  - Palavras-chave, tipos primitivos, conversão, variáveis, hierarquia de operadores e parênteses.
-
-- **Estruturas de Programação**
-  - Condicionais (if), loops, switch, break, Enum, métodos de classe, recursividade e escopo de variáveis.
-
-- **Gestão de Objetos e Classes**
-  - Acesso, getters, setters, construtores, static.
-  - Herança, reescrita, polimorfismo, classes abstratas e interfaces.
-
-- **Manipulação de Data e Hora**
-
-- **Estruturas de Dados**
-  - Arrays, coleções.
-
-- **Tratamento de Erros**
-
-- **Acesso a Banco de Dados**
-
-- **Empacotamento de Aplicações**
-  - Criação e utilização de bibliotecas.
-
-**Totalizando 96h**
-
----
+</br>
 
 ## ✨ Tecnologia Utilizada
 
 Para o desenvolvimento dos projetos, foram utilizadas as seguintes ferramentas:
 
-- **[VSCode](https://code.visualstudio.com)**
-  - [Documentação](https://code.visualstudio.com/docs)
-
-- **[Spring Boot Extension Pack](https://marketplace.visualstudio.com/items?itemName=vmware.vscode-boot-dev-pack)**
-
-- **[Extension Pack for Java](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-pack)**
-
----
+🟣 **[VSCode](https://code.visualstudio.com)** [Documentação](https://code.visualstudio.com/docs)</br>
+🟣 **[Spring Boot Extension Pack](https://marketplace.visualstudio.com/items?itemName=vmware.vscode-boot-dev-pack)**</br>
+🟣 **[Extension Pack for Java](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-pack)**</br>
 
 <!--
 ## 🤓 Trabalho Final 
