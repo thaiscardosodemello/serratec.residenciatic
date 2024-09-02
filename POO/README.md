@@ -2,8 +2,10 @@
    <img height="200px" src="../assets/logoSerratec.jpg" alt="logo serratec"/>
 </p>
 
-<h1 align="center">Programação Orientada a Objetos (JAVA)</h1>
-<h3 align="center">Professor Arthur Carvalho</h3>
+<div align="center">
+  <h1 style="font-family: 'Nunito', sans-serif; margin-bottom: 0;">Programação Orientada a Objetos (JAVA)</h1>
+  <h3 style="font-family: 'Nunito', sans-serif; margin-top: 0;">Professor Arthur Carvalho</h3>
+</div>
 
 ---
 
@@ -106,6 +108,3 @@ Para o desenvolvimento dos projetos, foram utilizadas as seguintes ferramentas:
     </td>
 </table>
 -->
-
-
-
