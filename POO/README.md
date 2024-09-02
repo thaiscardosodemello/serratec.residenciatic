@@ -30,6 +30,14 @@ O módulo abrange os seguintes tópicos:
 
 </br>
 
+## ✨ Avaliações
+
+1. [Lista 1 - Operações Matemáticas](https://github.com/thaiscardosodemello/poo.exercicios/tree/master/src/main/java/com/poolista/poolista)
+2. [Lista 2 - Desvios Condicionais] _Em andamento_
+
+
+</br>
+
 ## ✨ Tecnologia Utilizada
 
 Para o desenvolvimento dos projetos, foram utilizadas as seguintes ferramentas:
@@ -41,7 +49,6 @@ Para o desenvolvimento dos projetos, foram utilizadas as seguintes ferramentas:
 <!--
 ## 🤓 Trabalho Final 
 
-1. [Empréstimo de Livros](https://github.com/thaiscardosodemello/serratec.residenciatic/blob/main/BancoDeDados/Trabalho%20Final/avaliacao_01.sql)
 
 <br/>
 <table align="center">
