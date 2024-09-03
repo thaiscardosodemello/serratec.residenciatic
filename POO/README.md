@@ -32,8 +32,8 @@ O módulo abrange os seguintes tópicos:
 
 ## 🤓 Avaliações
 
-1. [Lista 1 - Operações Matemáticas](https://github.com/thaiscardosodemello/poo.exercicios/tree/master/src/main/java/com/poolista/poolista)
-2. [Lista 2 - Desvios Condicionais] _Em andamento_
+1. [Lista 1 - Operações Matemáticas](https://github.com/thaiscardosodemello/poo.exercicios/tree/master/src/main/java/com/poolista1)
+2. [Lista 2 - Desvios Condicionais](https://github.com/thaiscardosodemello/poo.exercicios/tree/master/src/main/java/com/poolista2)
 
 
 </br>
