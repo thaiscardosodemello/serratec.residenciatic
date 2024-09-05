@@ -34,6 +34,8 @@ O módulo abrange os seguintes tópicos:
 
 1. [Lista 1 - Operações Matemáticas](https://github.com/thaiscardosodemello/poo.exercicios/tree/master/src/main/java/com/poolista1)
 2. [Lista 2 - Desvios Condicionais](https://github.com/thaiscardosodemello/poo.exercicios/tree/master/src/main/java/com/poolista2)
+3. [Lista 3 - Laços de Repetição](https://github.com/thaiscardosodemello/poo.exercicios/tree/master/src/main/java/com/poolista3)
+4. [Lista 2 - Array e Matriz](https://github.com/thaiscardosodemello/poo.exercicios/tree/master/src/main/java/com/poolista4)
 
 
 </br>
