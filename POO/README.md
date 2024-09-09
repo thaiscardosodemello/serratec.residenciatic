@@ -4,7 +4,7 @@
 
 <div align="center">
   <h1 style="font-family: 'Nunito', sans-serif; margin-bottom: 0;border-bottom: 0; padding-bottom: 0;">Programação Orientada a Objetos (JAVA)</h1>
-  <h3 style="font-family: 'Nunito', sans-serif; margin-top: 0;">Professor Arthur Carvalho</h3>
+  <h3 style="font-family: 'Nunito', sans-serif; margin-top: 0;">Professor Arthur Giangiarulo</h3>
 </div>
 
 </br>
@@ -36,6 +36,7 @@ O módulo abrange os seguintes tópicos:
 2. [Lista 2 - Desvios Condicionais](https://github.com/thaiscardosodemello/poo.exercicios/tree/master/src/main/java/com/poolista2)
 3. [Lista 3 - Laços de Repetição](https://github.com/thaiscardosodemello/poo.exercicios/tree/master/src/main/java/com/poolista3)
 4. [Lista 2 - Array e Matriz](https://github.com/thaiscardosodemello/poo.exercicios/tree/master/src/main/java/com/poolista4)
+5. [Sistema de Gestão Escolar Senai](https://github.com/thaiscardosodemello/poo.sistemaprojetosenai)
 
 
 </br>
