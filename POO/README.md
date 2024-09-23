@@ -37,6 +37,7 @@ O módulo abrange os seguintes tópicos:
 3. [Lista 3 - Laços de Repetição](https://github.com/thaiscardosodemello/poo.exercicios/tree/master/src/main/java/com/poolista3)
 4. [Lista 2 - Array e Matriz](https://github.com/thaiscardosodemello/poo.exercicios/tree/master/src/main/java/com/poolista4)
 5. [Sistema de Gestão Escolar Senai](https://github.com/thaiscardosodemello/poo.sistemaprojetosenai)
+6. [Sistema de Gestão Cinema](https://github.com/thaiscardosodemello/poo.cinemamanagementsystem/tree/main)
 
 
 </br>
@@ -49,52 +50,3 @@ Para o desenvolvimento dos projetos, foram utilizadas as seguintes ferramentas:
 🟣 **[Spring Boot Extension Pack](https://marketplace.visualstudio.com/items?itemName=vmware.vscode-boot-dev-pack)**</br>
 🟣 **[Extension Pack for Java](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-pack)**</br>
 
-<!--
-## 🤓 Trabalho Final 
-
-
-<br/>
-<table align="center">
-    <tr>
-    <td align="center">
-      <a href="https://github.com/isabe1l4">
-        <img src="https://avatars.githubusercontent.com/u/166730062?v=4" width="100px;" alt="Avatar Isabela Assumpção"/><br>
-        <sub>
-          <b>Isabela Assumpção</b>
-        </sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/JoaoGLinhares">
-        <img src="https://avatars.githubusercontent.com/u/177574425?v=4" width="100px;" alt="Avatar João Linhares"/><br>
-        <sub>
-          <b>João Linhares</b>
-        </sub>
-      </a>
-    </td>
-   <td align="center">
-      <a href="https://github.com/rafaelfreire3107">
-        <img src="https://avatars.githubusercontent.com/u/177573677?v=4" width="100px;" alt="Avatar Rafael Freire"/><br>
-        <sub>
-          <b>Rafael Freire</b>
-        </sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/ryansouza9">
-        <img src="https://avatars.githubusercontent.com/u/178517635?v=4" width="100px;" alt="Avatar Ryan Souza"/><br>
-        <sub>
-          <b>Ryan Souza</b>
-        </sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/thaiscardosodemello">
-        <img src="https://avatars.githubusercontent.com/u/14929797?v=4" width="100px;" alt="Avatar Thais Cardoso"/><br>
-        <sub>
-          <b>Thais Cardoso</b>
-        </sub>
-      </a>
-    </td>
-</table>
--->
