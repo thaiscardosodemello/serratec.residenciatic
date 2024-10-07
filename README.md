@@ -24,7 +24,7 @@ O módulo abrange os seguintes tópicos:
 ❌ [Desenvolvimento Web]</br>
 ❌ [Desenvolvimento Mobile]</br>
 ❌ [Projeto Aplicado e Integração de Competência]</br>
-✔️ [Mentoria de Carreira](./MentoriaDeCarreira/)</br>
+✔️ [Mentoria de Carreira]</br>
 ✔️ [Inglês Instrumental]</br>
 ✔️ <s>Mentoria de Projetos</s></br>
 
