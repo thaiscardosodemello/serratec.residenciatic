@@ -30,6 +30,3 @@ O módulo abrange os seguintes tópicos:
 
 </br>
 
-=======
-# serratec.residenciatic
->>>>>>> c18e01f5dabc8dfe5ee801bd252b647c7408a613
