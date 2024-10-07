@@ -1,6 +1,5 @@
-<<<<<<< HEAD
 <p align="center">
-   <img height="200px" src="../serratec.residenciatic/assets/logoSerratec.jpg" alt="logo serratec"/>
+   <img height="200px" src="assets/logoSerratec.jpg" alt="logo serratec"/>
 </p>
 
 <div align="center">
