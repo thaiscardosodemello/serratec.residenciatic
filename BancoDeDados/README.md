@@ -65,14 +65,6 @@ O módulo abrange os seguintes tópicos:
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/ryansouza9">
-        <img src="https://avatars.githubusercontent.com/u/178517635?v=4" width="100px;" alt="Avatar Ryan Souza"/><br>
-        <sub>
-          <b>Ryan Souza</b>
-        </sub>
-      </a>
-    </td>
-    <td align="center">
       <a href="https://github.com/thaiscardosodemello">
         <img src="https://avatars.githubusercontent.com/u/14929797?v=4" width="100px;" alt="Avatar Thais Cardoso"/><br>
         <sub>
@@ -88,5 +80,5 @@ O módulo abrange os seguintes tópicos:
 
 Para o desenvolvimento dos projetos, foram utilizadas as seguintes ferramentas:
 
-- **[PostgreSQL](https://www.postgresql.org)** [*(Documentação)*](https://www.postgresql.org/docs/)</br>
-- **[DBeaver](https://dbeaver.io)** [*(Documentação)*](https://dbeaver.com/docs/dbeaver/)</br>
+🟣 **[PostgreSQL](https://www.postgresql.org)** [*(Documentação)*](https://www.postgresql.org/docs/)</br>
+🟣 **[DBeaver](https://dbeaver.io)** [*(Documentação)*](https://dbeaver.com/docs/dbeaver/)</br>

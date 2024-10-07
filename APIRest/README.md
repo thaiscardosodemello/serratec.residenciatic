@@ -48,6 +48,6 @@ Para o desenvolvimento dos projetos, foram utilizadas as seguintes ferramentas:
 🟣 [**Java**](https://www.oracle.com/java/technologies/)    [(*Documentação*)](https://docs.oracle.com/en/java/)    [(*Documentação MDN*)](https://developer.mozilla.org/en-US/docs/Glossary/Java)
 🟣 [**Mailtrap**](https://mailtrap.io/)    [(*Documentação*)](https://mailtrap.docs.apiary.io/#)    
 🟣 [**PostgreSQL**](https://www.postgresql.org/)    [(*Documentação*)](http://pgdocptbr.sourceforge.net/pg80/index.html) -->
-🟣 [**Postman**](https://www.postman.com/downloads/)    [(*Documentação*)](https://learning.postman.com/docs/getting-started/introduction/)
+🟣 [**Postman**](https://www.postman.com/downloads/)    [(*Documentação*)](https://learning.postman.com/docs/getting-started/introduction/) </br>
 🟣 [**Spring Boot**](https://spring.io/)    [(*Documentação*)](https://spring.io/projects/spring-boot)
 <!-- 🟣 [**Swagger**](https://swagger.io/)    [(*Documentação*)](https://swagger.io/solutions/api-documentation/)   -->

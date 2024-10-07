@@ -1,5 +1,5 @@
 <p align="center">
-   <img height="200px" src="../assets/logoSerratec.jpg" alt="logo serratec"/>
+   <img height="200px" src="../serratec.residenciatic/assets/logoSerratec.jpg" alt="logo serratec"/>
 </p>
 
 <div align="center">
@@ -16,16 +16,15 @@
 
 O módulo abrange os seguintes tópicos:
 
-✔️ [Lógica de Programação](serratec.LogicaDeProgramacao/)</br>
-✔️ [Banco de Dados](serratec.BancoDeDados/)</br>
-✔️ [Modelagem de Sistemas](serratec.ModelagemDeSistemas/)</br>
-✔️ [Programação Orientada a Objetos](serratec.ProgramacaoOrientadaobjetos/)</br>
-✔️ [Front-end Essencial](serratec.FrontEndEssencial/)</br>
-✔️ [Desenvolvimento API Restful](serratec.desenvolvimentoAPI-Restful/)</br>
+✔️ [Lógica de Programação](./LogicaDeProgramacao/)</br>
+✔️ [Banco de Dados](./BancoDeDados/)</br>
+✔️ [Programação Orientada a Objetos(POO)](./POO/)</br>
+✔️ [FrontEnd Essencial](./FrontEndEssencials/)</br>
+✔️ [Desenvolvimento API Restful](./APIRest/)</br>
 ❌ [Desenvolvimento Web]</br>
 ❌ [Desenvolvimento Mobile]</br>
 ❌ [Projeto Aplicado e Integração de Competência]</br>
-✔️ [Mentoria de Carreira](#)</br>
+✔️ [Mentoria de Carreira](./MentoriaDeCarreira/)</br>
 ✔️ [Inglês Instrumental]</br>
 ✔️ <s>Mentoria de Projetos</s></br>
 

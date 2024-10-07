@@ -46,14 +46,6 @@
       </a><br>
     </td>
     <td align="center">
-      <a href="https://github.com/ryansouza9">
-        <img src="https://avatars.githubusercontent.com/u/178517635?v=4" width="100px;" alt="Avatar Ryan Souza"/><br>
-        <sub>
-          <b>Ryan Souza</b>
-        </sub>
-      </a><br>
-    </td>
-    <td align="center">
       <a href="https://github.com/thaiscardosodemello">
         <img src="https://avatars.githubusercontent.com/u/14929797?v=4" width="100px;" alt="Avatar Thais Cardoso"/><br>
         <sub>
@@ -75,6 +67,6 @@
 
 ## ✨ Tecnologia Utilizada
 
-- [**Portugol Studio**](https://portugol-webstudio.cubos.io/)    [*(Documentação)*](https://github.com/UNIVALI-LITE/Portugol-Studio/wiki/Como-funciona-o-Portugol-Studio)
+🟣 [**Portugol Studio**](https://portugol-webstudio.cubos.io/)    [*(Documentação)*](https://github.com/UNIVALI-LITE/Portugol-Studio/wiki/Como-funciona-o-Portugol-Studio)
 
 
