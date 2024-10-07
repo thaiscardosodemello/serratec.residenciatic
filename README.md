@@ -26,7 +26,6 @@ O módulo abrange os seguintes tópicos:
 ❌ [Projeto Aplicado e Integração de Competência]</br>
 ✔️ [Mentoria de Carreira]</br>
 ✔️ [Inglês Instrumental]</br>
-✔️ <s>Mentoria de Projetos</s></br>
 
 </br>
 
